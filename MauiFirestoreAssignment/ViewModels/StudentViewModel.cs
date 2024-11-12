@@ -9,7 +9,7 @@ using PropertyChanged;
 namespace MauiFirestoreAssignment.ViewModels;
 
 [AddINotifyPropertyChangedInterface]
-public class StudentViewModel
+public partial class StudentViewModel
 {
     FirestoreService _firestoreService;
 

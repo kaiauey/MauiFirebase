@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiFirestoreAssignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+4825d635f3e009a03cadf664539fa8c538145a89")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiFirestoreAssignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiFirestoreAssignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
