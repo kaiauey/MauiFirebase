@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/aueyeay/Projects/DX212/MauiFirestoreAssignment/MauiFirestoreAssignment/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/aueyeay/Projects/DX212/MauiFirestoreAssignment/MauiFirestoreAssignment/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/MauiFirestoreAssignment.app
